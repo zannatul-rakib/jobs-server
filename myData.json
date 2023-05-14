@@ -1,0 +1,135 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "jobs": [
+    {
+      "id": "645d31a79c9be82392284d18",
+      "jobName": "Database Administrator",
+      "logo": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+      "company": "Luxoft",
+      "category": "Remote",
+      "location": "Mexico",
+      "salary": "4000",
+      "jobTime": "Full–time",
+      "description": "Luxoft Financial Services has one of the world's leading Murex practices. We are a top-tier Murex Alliance Partner and a market leader in implementation, integration, upgrade and migration. We provide end-to end project services and have delivered over 200 successful Murex projects across all major asset-classes and sectors including investment banking, asset management, corporate treasury and insurance. Whether you possess a background in finance, technology or Mathematics, your experience in the capital markets industry would be of high interest to us",
+      "responsibility": "Provide Oracle DBA support to a number of internal applications, including Murex. Perform activities related to maintaining and optimizing the performance of environment hosted on Oracle. DBA activities will include, but not limited to. Environment load(s). Load optimizations. Environment maintenance. Environment upgrade(s). Enabling new capacity for applications",
+      "education": "bachelor's degree in information science or computer science",
+      "experience": "3",
+      "contact": {
+        "phone": "+54426-655523",
+        "email": "luxoft@gmail.com",
+        "website": "https://www.luxoft.com/"
+      }
+    },
+    {
+      "id": "645d31a7b95139bae93580f9",
+      "jobName": "Front-End React Developer",
+      "logo": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+      "company": "Turing",
+      "category": "Remote",
+      "location": "Palo Alto, California",
+      "salary": "2000",
+      "jobTime": "Full–time",
+      "description": "A fast-scaling security audit and services company that is on the mission to break security bottlenecks and make Web3 safer, is looking for a Front-End React Developer. The selected developer would be responsible for helping the company build its platform and enhance the UI while ensuring an exceptional user experience. The company is building a freelance marketplace of vetted security researchers for Web3 projects, helping them find readily available security resources, and avoid waiting months for security reviews or shipping unaudited code. This is an amazing opportunity for developers who are looking for a challenge and the opportunity to work independently.",
+      "responsibility": "Build and maintain the platform’s front-end features using React, TypeScript, and other tech stacks. Establish well-maintained CI/CD pipelines to effectively deploy features. Ensure all products are released in a fast, reliable, and secure manner. Collaborate with various teams to understand product requirements and define user flows. Ensure the platform’s fast load time and smooth interaction by continuously optimizing and improving it. Ensure the platform adheres to best-in-industry security best practices. Stay abreast of the latest industry trends/emerging tech and incorporate them into the platform development process. Participate in code review activities and share/receive constructive feedback to.ensure code quality. Troubleshoot and resolve bugs; tackle problems as and when they arise. Conduct risk assessment; identify and mitigate potential security risks. Share knowledge and help build and maintain a modern web app engineering organization. Foster a culture of continuous improvement and advocate for best practices in security and software development",
+      "education": "Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)",
+      "experience": "At least 3+ years of relevant experience as a Front-End Developer",
+      "contact": {
+        "phone": "+78554-584555",
+        "email": "turning@gmail.com",
+        "website": "turning.com"
+      }
+    },
+    {
+      "id": "645d31a7ba387dbc30ae5cfb",
+      "jobName": "Talent Assistant",
+      "logo": "https://media.licdn.com/dms/image/C4E0BAQEdF6IwLHGd9g/company-logo_100_100/0/1663768863261?e=2147483647&v=beta&t=WwY66PSkFzhEshCAJ0nQjDMaAL5PY2Nj-iLTTm2ZAfw",
+      "company": "Patterson Belknap Webb & Tyler LLP",
+      "category": "Onsite",
+      "location": "New York City",
+      "salary": "Negotiable",
+      "jobTime": "Full–time",
+      "description": "Patterson Belknap Webb & Tyler LLP is an Equal Opportunity Employer and is committed to complying with all federal, state and local equal employment opportunity (“EEO”) laws. The Firm strictly prohibits discrimination against any employee, intern, or other person providing services pursuant to a contract at a Firm workplace (such as freelancers, independent contractors, subcontractors, and vendors) and any applicant for employment (or for an internship or third-party contractor position described above) (collectively, “employee”) because of the individual’s race, color, sex (including pregnancy), religion or creed, national origin, alienage, age, sexual orientation, disability, gender identity or expression, sexual and reproductive health decisions or decision making (of employees or their dependents), familial status, marital status, partnership status, caregiver status, genetic predisposition or carrier status, military status, domestic violence, sexual violence, or stalking victim status, or any other characteristic protected by law. The Firm also considers for employment qualified applicants and third-party contractors with criminal histories consistent with federal, state, and local law. This policy applies to all Firm activities, including, but not limited to, recruitment, hiring, compensation, assignment, training, promotion, discipline and discharge. This policy also bans discriminatory harassment.",
+      "responsibility": "Support the Chief Talent Officer and the Associate Talent Manager with all aspects of attorney recruiting. Support the full-cycle attorney recruiting process for all non-partner attorney hires, including. maintaining and entering candidate data in vi. coordinating interviews and liaising with attorneys for scheduling. greeting and escorting candidates in the office",
+      "education": "Bachelor’s degree required",
+      "experience": "1+ years of legal recruiting experience in a law firm required",
+      "contact": {
+        "phone": "+86545-55452",
+        "email": "ptajh@gmal.com",
+        "website": ""
+      }
+    },
+    {
+      "id": "645d31a782c8a695049f337c",
+      "jobName": "Full stack Developer",
+      "logo": "https://media.licdn.com/dms/image/C4D0BAQEdkpGTmIXmHA/company-logo_100_100/0/1519878262787?e=2147483647&v=beta&t=VkXMg76oS8FY8C9DtWJ8ED1WNqnzhWoRcVeRNmb4Nq4",
+      "company": "Kolpolok Limited",
+      "category": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "salary": "Negotiable",
+      "jobTime": "Full–time",
+      "description": "Kolpolok is seeking a dedicated full-stack developer to join our growing company. You will be tasked with taking website template files from a designer and creating fully functional websites or web applications from them, including developing all of the necessary functionality. Responsibilities include ensuring all relevant website functionality works as expected and that the website displays well on a range of screen resolutions, from mobile to desktop. As a full-stack developer, you will work as part of a team to implement new features, as well as make modifications and fix bugs in existing code. Your duties will include designing and developing layouts, writing code to power the underlying functionality of the website, and developing tests for the code you write.",
+      "responsibility": "Architect brand-new software solutions to fulfill project requirements. Create, design, and implement layouts for new and existing web pages. Create and maintain database designs for data storage and processing. Maintain legacy code written by other developers, including bug fixes. Integrate external software libraries and APIs into existing projects.",
+      "education": "Bachelor’s degree required",
+      "experience": "field with at least three or more years of experience.",
+      "contact": {
+        "phone": "+77545-544554",
+        "email": "kolpolok@gmail.com",
+        "website": "kolpolok.com"
+      }
+    },
+    {
+      "id": "645d31a7d1cee173aa02dcd1",
+      "jobName": "Mobile Developer - Flutter",
+      "logo": "https://media.licdn.com/dms/image/C560BAQEV_01RTawztQ/company-logo_100_100/0/1659420826894?e=2147483647&v=beta&t=cHd3sCJhi14r8lxcUkXCI2Wr5tdijUO6dU-zRr43XJA",
+      "company": "Polygon Technology",
+      "category": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "salary": "Negotiable",
+      "jobTime": "Full–time",
+      "description": "We are looking for Mobile Developers with 2-4 years of experience in Mobile application development with Flutter. Founded in 2020, PolygonTech is a humble organisation home to a bunch of passionate people. With our core focus being empowering Startups with efficient technology solutions, we are experts in making our clients’ lives easier, and delivering the best software products in the market. Our reputation is built on serving them with confidence, convenience, and collaboration.",
+      "responsibility": "Solid foundation on OOP, Algorithm, Data-structure, Java/Kotlin & Android framework. Working knowledge with Dart & Flutter. Proficient in working with REST APIs. Solid understanding of the full mobile development life cycle. Familiar with Software Design Patterns. Efficient in developing memory-friendly applications. Teamwork skills with a problem-solving attitude. Building reusable code and libraries",
+      "education": "Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)",
+      "experience": "2-4 years of experience in Mobile application development with Flutter",
+      "contact": {
+        "phone": "+544454-544455",
+        "email": "polygon@gmail.com",
+        "website": "polygon.com"
+      }
+    },
+    {
+      "id": "645d31a7d1cee173aa02dcd0",
+      "jobName": "Software Engineer",
+      "logo": "https://media.licdn.com/dms/image/C560BAQFVhJXjAzGTbQ/company-logo_100_100/0/1678098261978?e=2147483647&v=beta&t=ioAcH4seqHf2i9RhvfaNQwrlkkK0YLAqeLhrbL0yqns",
+      "company": "Therap (BD) Ltd",
+      "category": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "salary": "1000",
+      "jobTime": "Full–time",
+      "description": "ICAS has been a leader in IT consulting services for 40+ years, serving small, medium, and large companies and organizations in virtually every industry and marketplace including local and national regions. ICAS designs innovative, customized, and secure infrastructures in data, voice, video (AV), security, and wireless from concept to delivery. ICAS provides turnkey network solutions and is a provider of custom cabling to secure worldwide business leadership.",
+      "responsibility": "Writing well-designed, testable, and efficient code. Gathering and evaluating user feedback. Working as a part of a dynamic team to deliver winning products. Providing code documentation and other inputs to technical documents. Supporting continuous improvement by investigating alternatives and new technologies and presenting these for architectural review.",
+      "education": "Degree/Diploma in Computer Science, Engineering, or a related field.",
+      "experience": "at least 3 years of experience, ideally within a Software Engineer role",
+      "contact": {
+        "phone": "+454454-545425",
+        "email": "therap@gmail.com",
+        "website": "therap.com"
+      }
+    }
+  ]
+}
